@@ -1,0 +1,36 @@
+Nama:   Florence Regis Lake
+Umur:   19
+NIM :   105223006
+Hobi:   Sonder
+
+ADD
+//git add . & git commit -m <name>  -> Save to local repo
+
+PUSH REMOTE REPOSITORY
+//git remote add <name> <url>       -> push to remote repo using url
+//git push <name>                   -> push to remote repo named <name>
+
+PULL REMOTE REPOSITORY
+//git pull <remote> <branch>        -> 
+//git branch --set-upstream-to=<remote>/<branch> git-lines
+
+CREATE BRANCH
+//git checkout -b <name>            -> Creates new branch named <name> and Switch to branch <name>
+//git checkout <name>               -> Switch to branch <name>
+
+SWITCH BRANCH
+//git switch <name>                 -> Switch branches
+
+STATUS CHECK
+//git status                        -> Status check
+
+
+---------------- GIT COMMON COMMANDS -----------------
+//git --help            -> See common git commands
+
+---------------- VARIOUS GIT COMMANDS ----------------
+//git help -a        -> See all available commands
+
+-------- READ SPECIFIC SUBCOMMAND OR CONCEPT ---------
+//git help <command> 
+//git help <concept>
